@@ -1,0 +1,33 @@
+
+================================================================
+======== txAdmin Starting - 24/01/2022 14:35:27                 
+================================================================
+[14:35:57] [masterfonta] created admins file
+[14:36:59] [masterfonta] Changing global settings via setup stepper and started Deployer.
+[14:37:02] [masterfonta] Setting recipe.
+[14:37:20] [masterfonta] Running recipe.
+[14:39:02] [masterfonta] Configured server.cfg from deployer.
+[14:39:02] [masterfonta] Completed and committed server deploy.
+[14:40:26] [masterfonta] STOP SERVER
+
+================================================================
+======== txAdmin Starting - 24/01/2022 14:40:40                 
+================================================================
+[14:41:38] [masterfonta] logged in from 127.0.0.1 via password
+[14:41:51] [masterfonta] profile record 500
+[14:42:19] [masterfonta] profiler record 500
+[14:44:02] [masterfonta] profile view
+[14:44:18] [masterfonta] profiler view
+[14:52:24] [masterfonta] Editing server CFG File.
+[14:52:51] [masterfonta] Editing server CFG File.
+[14:52:54] [masterfonta] Editing server CFG File.
+[14:52:56] [masterfonta] Editing server CFG File.
+[14:53:05] [masterfonta] RESTART SERVER
+[14:54:41] [masterfonta] Editing server CFG File.
+[14:54:46] [masterfonta] RESTART SERVER
+[14:57:08] [masterfonta] Changing monitor settings.
+[14:57:14] [masterfonta] Changing global settings.
+[14:58:03] [masterfonta] RESTART SERVER
+[14:58:26] [masterfonta] ensure "example-loadscreen"
+[14:58:36] [masterfonta] Editing server CFG File.
+[14:58:42] [masterfonta] RESTART SERVER

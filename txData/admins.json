@@ -1,0 +1,21 @@
+[
+  {
+    "name": "masterfonta",
+    "master": true,
+    "password_hash": "$2a$11$07Z5AqK/mgmKMWBEDCL2Ku8a8nt1D1.Y.6pL05C0rPZOO0BxNCZqO",
+    "providers": {
+      "citizenfx": {
+        "id": "masterfonta",
+        "identifier": "fivem:5210867",
+        "data": {
+          "sub": "f9e91286c055a72545f689e228de2fe9",
+          "nameid": "https://forum.cfx.re/internal/user/5210867",
+          "name": "masterfonta",
+          "picture": "https://avatars.discourse.org/v4/letter/m/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/masterfonta"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

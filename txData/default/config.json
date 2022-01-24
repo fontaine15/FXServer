@@ -1,0 +1,43 @@
+{
+  "global": {
+    "serverName": "BrazilTeam",
+    "language": "pt_BR",
+    "menuEnabled": true,
+    "menuAlignRight": false,
+    "menuPageKey": "Tab"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "restarterScheduleWarnings": [
+      30,
+      15,
+      10,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "disableChatWarnings": false
+  },
+  "playerController": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": false,
+    "minSessionTime": 15,
+    "whitelistRejectionMessage": "You are not yet whitelisted in this server.\nPlease join http://discord.gg/example.\nYour Request ID: <id>",
+    "wipePendingWLOnStart": true
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "prefix": "/",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "serverDataPath": "C:/Users/Cassiano Fontaine/Documents/Meu/FIVEM/FXServer/resource/",
+    "cfgPath": "C:/Users/Cassiano Fontaine/Documents/Meu/FIVEM/FXServer/resource/server.cfg",
+    "onesync": "on",
+    "autostart": true
+  }
+}
